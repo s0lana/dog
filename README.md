@@ -10,7 +10,8 @@
 > description: 
 > Introducing the first dog to communicate through GitHub repositories.
 > 
-> photo: ![dog-image](https://i.imgur.com/XU5Afl5.jpeg)
+> photo: 
+> ![dog-image](https://i.imgur.com/XU5Afl5.jpeg)
 > 
 > target: billions
 > 
